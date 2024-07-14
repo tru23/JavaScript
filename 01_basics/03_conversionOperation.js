@@ -35,3 +35,30 @@ console.log("convert to  string")
 console.log(typeof(stringNumber))
 console.log(stringNumber)
 
+console.log("---------------------------------------------------------------------------------------------")
+console.log("OPERATIONS")
+
+let value=3
+let negvalue=-value
+console.log(negvalue);
+
+console.log(2+2);
+console.log(2-2)
+console.log(2*2);
+console.log(2**2);//power 2 rest to 2
+console.log(2**3);//2 rest to 3
+console.log(2/3)//devide
+console.log(2%3);//remainder
+
+console.log("STRING CONCATENATE")
+let str1="hello"
+let str2=" Trupti"
+
+let str3=str1+str2
+console.log(str3)
+
+console.log("-----------------------------------------------------------------------------------------------")
+console.log("COMPLEX ONES")
+
+
+
