@@ -20,4 +20,17 @@ console.log(anotherNumber3.toPrecision(4))
 const num=100000000000
 console.log(num.toLocaleString('en-IN'))
 
-log
+console.log(Math.round(4.6));
+console.log(Math.ceil(4.2));
+console.log(Math.floor(4.6));
+
+console.log(Math.random());
+
+console.log(Math.random());
+
+console.log((Math.random()*10)+1);
+
+const min=10
+const max=20
+
+console.log(Math.floor(Math.random()*(max-min+1))+min)
